@@ -1,0 +1,8 @@
+[woojun827] Tue May 20 06:32:17 2025 +0900 requirements list 최종 654a1c1
+[woojun827] Tue May 20 06:18:09 2025 +0900 Use Case Description 최종 수정본 022b6c7
+[woojun827] Tue May 20 05:54:33 2025 +0900 Use Case Diagram, Communication Diagram, Analysis Class Diagram 추가 979f3f5
+[woojun827] Tue May 20 05:47:47 2025 +0900 Requirements List & Use Case Description Update fc3049b
+[woojun827] Mon May 19 19:42:49 2025 +0900 Merge pull request #3 from woojun827/dev 09c25c7
+[woojun827] Mon May 19 19:41:12 2025 +0900 Use Case Description 정리 9b9a748
+[woojun827] Mon May 19 19:37:58 2025 +0900 Merge pull request #2 from woojun827/dev 9bc60be
+[woojun827] Mon May 19 19:27:58 2025 +0900 requirements list 정리 6cc0919
